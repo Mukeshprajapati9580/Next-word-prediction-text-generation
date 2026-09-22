@@ -52,7 +52,7 @@ The notebook uses a tokenizer to convert text into sequences and `pad_sequences`
 
 ### 1. Clone the repository
 
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone (https://github.com/Mukeshprajapati9580/Next-word-prediction-text-generation)
 
 ### 2. Create a virtual environment (recommended)
 
